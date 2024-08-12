@@ -11,12 +11,6 @@ A simple Todo List application built with React and Next.js, featuring task mana
 - *Search Tasks*: Filter tasks by title.
 - *Expand/Collapse Task Details*: View or hide task descriptions.
 
-## Installation
-
- *Clone the Repository*
-
-   bash
-   git clone https://github.com/charumehta0215/Todo-app
    
 # Navigate to the Project Directory
 cd todo-list-app
@@ -61,12 +55,3 @@ npm run dev
 - *Next.js*: Framework for server-side rendering and static site generation.
 - *Tailwind CSS*: Utility-first CSS framework for styling.
 
-## Contributing
-
-To contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/YourFeature
-3. Commit your changes: git commit -am 'Add new feature'
-4. Push to the branch: git push origin feature/YourFeature
-5. Create a new Pull Request.
